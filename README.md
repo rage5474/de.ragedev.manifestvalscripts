@@ -1,4 +1,4 @@
-# Manifest Validator wirtten Xtend
+# Manifest Validator written Xtend
 
 ## Features 
 - Full import package analyzer working
